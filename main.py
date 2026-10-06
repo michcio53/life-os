@@ -1,3 +1,6 @@
+import doopa
+
+
 def main():
     print("Hello from life-os!")
 
