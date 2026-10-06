@@ -16,3 +16,6 @@ dev = [
 
 [tool.basedpyright]
 reportMissingImports = "error"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
